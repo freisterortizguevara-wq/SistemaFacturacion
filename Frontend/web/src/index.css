@@ -1,6 +1,7 @@
 /* ========================================================== NEXUS UI — PREMIUM DESIGN SYSTEM 2026 SaaS Analytics · Dashboard · Reporting Mantiene las clases existentes y mejora toda la interfaz. ========================================================== */
 
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
 
 /* ===================== DESIGN TOKENS ===================== */
 
@@ -370,7 +371,10 @@ tbody tr:last-child td, .dash-table tr:last-child td { border-bottom: none; }
 
 /* ===================== SCROLLBAR ===================== */
 
-{ scrollbar-width: thin; scrollbar-color: #d6d8e8 transparent; }
+body { 
+  scrollbar-width: thin; 
+  scrollbar-color: #d6d8e8 transparent; 
+}
 
 ::-webkit-scrollbar { width: 8px; height: 8px; }
 
@@ -467,7 +471,6 @@ main { gap: 16px; padding: 17px 14px 28px; }
    MEJORAS RESPONSIVE Y GLASSMORPHISM (Añadidas al final)
    ========================================================= */
 
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
 
 :root {
   --report-bg: #f5f6fa;

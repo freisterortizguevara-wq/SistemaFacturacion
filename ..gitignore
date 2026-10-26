@@ -1,0 +1,13 @@
+# Backend .NET
+[Bb]in/
+[Oo]bj/
+.vs/
+
+# Frontend React
+node_modules/
+dist/
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db

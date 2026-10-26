@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Clientes.Api/Clientes.Api.csproj" />
+    <Project Path="src/Facturas.Api/Facturas.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="Facturas.Tests/Facturas.Tests.csproj" Id="ef05bb19-bcf4-4709-9e1e-f47db51cf878" />
+    <Project Path="tests/Clientes.Tests/Clientes.Tests.csproj" />
+  </Folder>
+</Solution>

@@ -1,4 +1,4 @@
-import type { Factura, FacturaForm } from "./types"; // Asegúrate de crear estos tipos luego
+import type { Factura, FacturaForm } from "../types";
 
 // El puerto de Facturas (cámbialo al 5016 si es el que te está usando la API)
 const API_FACTURAS = import.meta.env.VITE_API_FACTURAS_URL ?? "http://localhost:5016";

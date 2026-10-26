@@ -43,7 +43,7 @@ export interface Factura {
   iva: number;
   total: number;
   estado: string; // "Emitida", "Anulada", etc.
-  fechaEmision: string;
+  fecha: string;
   items: ItemFacturaForm[];
 }
 

@@ -1,4 +1,4 @@
-import type { Producto } from "./types";
+import type { Producto } from "../types";
 
 const API_URL = import.meta.env.VITE_API_FACTURAS_URL ?? "http://localhost:5016"; // O 5016 si es tu puerto
 

@@ -1,5 +1,4 @@
-import type { Cliente, ClienteForm } from "./types";
-
+import type { Cliente, ClienteForm } from "../types";
 const API = import.meta.env.VITE_API_URL ?? "http://localhost:5169";
 
 export class ApiError extends Error {

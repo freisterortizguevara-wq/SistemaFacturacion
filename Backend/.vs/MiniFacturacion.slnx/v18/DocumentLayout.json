@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\freis\\Factura\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53545E5B-8E2E-A13D-51E7-07673344C72D}|src\\Facturas.Api\\Facturas.Api.csproj|c:\\users\\freis\\factura\\backend\\src\\facturas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53545E5B-8E2E-A13D-51E7-07673344C72D}|src\\Facturas.Api\\Facturas.Api.csproj|solutionrelative:src\\facturas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94DC1381-8249-2FD8-DFCC-EC066C3AB630}|src\\Clientes.Api\\Clientes.Api.csproj|c:\\users\\freis\\factura\\backend\\src\\clientes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DC1381-8249-2FD8-DFCC-EC066C3AB630}|src\\Clientes.Api\\Clientes.Api.csproj|solutionrelative:src\\clientes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DC1381-8249-2FD8-DFCC-EC066C3AB630}|src\\Clientes.Api\\Clientes.Api.csproj|c:\\users\\freis\\factura\\backend\\src\\clientes.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{94DC1381-8249-2FD8-DFCC-EC066C3AB630}|src\\Clientes.Api\\Clientes.Api.csproj|solutionrelative:src\\clientes.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DC1381-8249-2FD8-DFCC-EC066C3AB630}|src\\Clientes.Api\\Clientes.Api.csproj|c:\\users\\freis\\factura\\backend\\src\\clientes.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94DC1381-8249-2FD8-DFCC-EC066C3AB630}|src\\Clientes.Api\\Clientes.Api.csproj|solutionrelative:src\\clientes.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,39 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": []
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "8d353c28-8625-4486-addf-1cd8316c788e",
-        "Display": 0,
-        "X": -10,
-        "Y": 0,
-        "Width": 832,
-        "Height": 602,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\freis\\Factura\\Backend\\src\\Clientes.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\Clientes.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\freis\\Factura\\Backend\\src\\Clientes.Api\\Dockerfile",
+              "RelativeToolTip": "src\\Clientes.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-26T18:34:05.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\freis\\Factura\\Backend\\src\\Clientes.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Clientes.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\freis\\Factura\\Backend\\src\\Clientes.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Clientes.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-26T18:17:38.699Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\freis\\Factura\\Backend\\src\\Facturas.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Facturas.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\freis\\Factura\\Backend\\src\\Facturas.Api\\Program.cs",
-              "RelativeToolTip": "src\\Facturas.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\freis\\Factura\\Backend\\src\\Clientes.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Clientes.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\freis\\Factura\\Backend\\src\\Clientes.Api\\Program.cs",
+              "RelativeToolTip": "src\\Clientes.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T18:05:28.672Z",
+              "WhenOpened": "2026-10-26T18:07:45.226Z",
               "EditorCaption": ""
             }
           ]

@@ -15,7 +15,7 @@ import {
 import * as XLSX from "xlsx";
 
 
-const API_URL = "http://localhost:5016";
+const API_URL = "https://sistemafacturacion-kkyv.onrender.com";
 
 const PALETTE = [
   "#635BFF",

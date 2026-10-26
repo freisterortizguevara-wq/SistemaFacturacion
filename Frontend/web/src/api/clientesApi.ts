@@ -1,5 +1,5 @@
 import type { Cliente, ClienteForm } from "../types";
-const API = import.meta.env.VITE_API_URL ?? "http://localhost:5169";
+const API = "https://clientes-api-he3e.onrender.com"; 
 
 export class ApiError extends Error {
   status: number;

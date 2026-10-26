@@ -314,3 +314,11 @@ C:\Users\freis\OneDrive\Documentos\MiniFacturacion\Backend\tests\Clientes.Tests\
 C:\Users\freis\OneDrive\Documentos\MiniFacturacion\Backend\tests\Clientes.Tests\obj\Debug\net10.0\Clientes.Tests.pdb
 C:\Users\freis\OneDrive\Documentos\MiniFacturacion\Backend\tests\Clientes.Tests\obj\Debug\net10.0\Clientes.Tests.genruntimeconfig.cache
 C:\Users\freis\OneDrive\Documentos\MiniFacturacion\Backend\tests\Clientes.Tests\obj\Debug\net10.0\ref\Clientes.Tests.dll
+C:\Users\freis\Factura\Backend\tests\Clientes.Tests\bin\Debug\net10.0\.msCoverageSourceRootsMapping_Clientes.Tests
+C:\Users\freis\Factura\Backend\tests\Clientes.Tests\bin\Debug\net10.0\CoverletSourceRootsMapping_Clientes.Tests
+C:\Users\freis\Factura\Backend\tests\Clientes.Tests\obj\Debug\net10.0\Clientes.Tests.csproj.AssemblyReference.cache
+C:\Users\freis\Factura\Backend\tests\Clientes.Tests\obj\Debug\net10.0\Clientes.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freis\Factura\Backend\tests\Clientes.Tests\obj\Debug\net10.0\Clientes.Tests.AssemblyInfoInputs.cache
+C:\Users\freis\Factura\Backend\tests\Clientes.Tests\obj\Debug\net10.0\Clientes.Tests.AssemblyInfo.cs
+C:\Users\freis\Factura\Backend\tests\Clientes.Tests\obj\Debug\net10.0\Clientes.Tests.csproj.CoreCompileInputs.cache
+C:\Users\freis\Factura\Backend\tests\Clientes.Tests\obj\Debug\net10.0\Clientes.Tests.sourcelink.json

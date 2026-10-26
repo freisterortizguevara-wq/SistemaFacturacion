@@ -1,6 +1,6 @@
 import type { Producto } from "../types";
 
-const API_URL = import.meta.env.VITE_API_FACTURAS_URL ?? "http://localhost:5016"; // O 5016 si es tu puerto
+const API_URL = "https://sistemafacturacion-kkyv.onrender.com";
 
 export const listarProductos = async (): Promise<Producto[]> => {
   const res = await fetch(`${API_URL}/api/productos`);

@@ -2,6 +2,7 @@
 [Bb]in/
 [Oo]bj/
 .vs/
+*.user
 
 # Frontend React
 node_modules/
@@ -11,3 +12,4 @@ dist/
 # Sistema
 .DS_Store
 Thumbs.db
+*.log

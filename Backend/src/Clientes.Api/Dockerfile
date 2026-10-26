@@ -20,4 +20,4 @@ ENV ASPNETCORE_URLS=http://+:8080
 EXPOSE 8080
 
 # 6. Comando para arrancar la API
-ENTRYPOINT ["dotnet", "Facturas.Api.dll"]
+ENTRYPOINT ["dotnet", "Clientes.Api.dll"]

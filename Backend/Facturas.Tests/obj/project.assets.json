@@ -1238,11 +1238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\freis\\OneDrive\\Documentos\\MiniFacturacion\\Backend\\Facturas.Tests\\Facturas.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\freis\\Factura\\Backend\\Facturas.Tests\\Facturas.Tests.csproj",
       "projectName": "Facturas.Tests",
-      "projectPath": "C:\\Users\\freis\\OneDrive\\Documentos\\MiniFacturacion\\Backend\\Facturas.Tests\\Facturas.Tests.csproj",
+      "projectPath": "C:\\Users\\freis\\Factura\\Backend\\Facturas.Tests\\Facturas.Tests.csproj",
       "packagesPath": "C:\\Users\\freis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\freis\\OneDrive\\Documentos\\MiniFacturacion\\Backend\\Facturas.Tests\\obj\\",
+      "outputPath": "C:\\Users\\freis\\Factura\\Backend\\Facturas.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1264,8 +1264,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\freis\\OneDrive\\Documentos\\MiniFacturacion\\Backend\\src\\Facturas.Api\\Facturas.Api.csproj": {
-              "projectPath": "C:\\Users\\freis\\OneDrive\\Documentos\\MiniFacturacion\\Backend\\src\\Facturas.Api\\Facturas.Api.csproj"
+            "C:\\Users\\freis\\Factura\\Backend\\src\\Facturas.Api\\Facturas.Api.csproj": {
+              "projectPath": "C:\\Users\\freis\\Factura\\Backend\\src\\Facturas.Api\\Facturas.Api.csproj"
             }
           }
         }

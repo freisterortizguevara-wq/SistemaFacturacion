@@ -1,7 +1,7 @@
 import type { Factura, FacturaForm } from "../types";
 
 // El puerto de Facturas (cámbialo al 5016 si es el que te está usando la API)
-const API_FACTURAS = import.meta.env.VITE_API_FACTURAS_URL ?? "http://localhost:5016";
+const API_FACTURAS ="https://sistemafacturacion-kkyv.onrender.com" ;
 
 export class ApiError extends Error {
   status: number;

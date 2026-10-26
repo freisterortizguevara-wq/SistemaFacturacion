@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+YRqTKeO+L8=",
+  "dgSpecHash": "AJChFzwGO5A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\freis\\OneDrive\\Documentos\\MiniFacturacion\\Backend\\tests\\Clientes.Tests\\Clientes.Tests.csproj",
+  "projectFilePath": "C:\\Users\\freis\\Factura\\Backend\\tests\\Clientes.Tests\\Clientes.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\freis\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\freis\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",
@@ -65,9 +65,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "El paquete \"System.Security.Cryptography.Pkcs\" 9.0.11 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-2fmv-rv2c-59x7",
-      "projectPath": "C:\\Users\\freis\\OneDrive\\Documentos\\MiniFacturacion\\Backend\\tests\\Clientes.Tests\\Clientes.Tests.csproj",
+      "projectPath": "C:\\Users\\freis\\Factura\\Backend\\tests\\Clientes.Tests\\Clientes.Tests.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\freis\\OneDrive\\Documentos\\MiniFacturacion\\Backend\\tests\\Clientes.Tests\\Clientes.Tests.csproj",
+      "filePath": "C:\\Users\\freis\\Factura\\Backend\\tests\\Clientes.Tests\\Clientes.Tests.csproj",
       "libraryId": "System.Security.Cryptography.Pkcs",
       "targetGraphs": [
         "net10.0"
@@ -77,9 +77,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "El paquete \"System.Security.Cryptography.Pkcs\" 9.0.11 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-846f-f764-76mx",
-      "projectPath": "C:\\Users\\freis\\OneDrive\\Documentos\\MiniFacturacion\\Backend\\tests\\Clientes.Tests\\Clientes.Tests.csproj",
+      "projectPath": "C:\\Users\\freis\\Factura\\Backend\\tests\\Clientes.Tests\\Clientes.Tests.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\freis\\OneDrive\\Documentos\\MiniFacturacion\\Backend\\tests\\Clientes.Tests\\Clientes.Tests.csproj",
+      "filePath": "C:\\Users\\freis\\Factura\\Backend\\tests\\Clientes.Tests\\Clientes.Tests.csproj",
       "libraryId": "System.Security.Cryptography.Pkcs",
       "targetGraphs": [
         "net10.0"

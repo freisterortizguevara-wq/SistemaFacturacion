@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "dzm2b6B2JpM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\freis\\Factura\\Backend\\src\\Facturas.Api\\Facturas.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\freis\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\freis\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.13\\microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "C:\\Users\\freis\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512",
+    "C:\\Users\\freis\\.nuget\\packages\\mongodb.bson\\3.13.0\\mongodb.bson.3.13.0.nupkg.sha512",
+    "C:\\Users\\freis\\.nuget\\packages\\mongodb.driver\\3.13.0\\mongodb.driver.3.13.0.nupkg.sha512",
+    "C:\\Users\\freis\\.nuget\\packages\\sharpcompress\\0.48.1\\sharpcompress.0.48.1.nupkg.sha512",
+    "C:\\Users\\freis\\.nuget\\packages\\snappier\\1.3.1\\snappier.1.3.1.nupkg.sha512",
+    "C:\\Users\\freis\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}

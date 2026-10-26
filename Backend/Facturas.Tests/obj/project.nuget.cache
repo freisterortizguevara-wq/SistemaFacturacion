@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b9LeufgAi0E=",
+  "dgSpecHash": "aGmbcH0eemY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\freis\\OneDrive\\Documentos\\MiniFacturacion\\Backend\\Facturas.Tests\\Facturas.Tests.csproj",
+  "projectFilePath": "C:\\Users\\freis\\Factura\\Backend\\Facturas.Tests\\Facturas.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\freis\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\freis\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
